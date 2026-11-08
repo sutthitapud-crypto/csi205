@@ -7,7 +7,7 @@ export default function Home() {
     <div className="mx-auto mt-5 flex max-w-5xl gap-4 rounded border border-gray-300 p-3">
       <div className="w-64 shrink-0 rounded border border-gray-300">
         <Image
-          src="/home/pf.png"
+          src="/Home/pf.png"
           alt="Profile Image"
           width={256}
           height={256}
